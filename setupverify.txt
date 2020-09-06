@@ -1,0 +1,21 @@
+user
+ernest
+GNU bash, version 5.0.17(1)-release (x86_64-pc-linux-gnu)
+Copyright (C) 2019 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+vs code version info
+1.41.1
+26076a4de974ead31f97692a0d32f90d735645c0
+x64
+git version 2.25.1
+git user name
+ErnestABenefo
+git user email
+ernest.benefo@ashesi.edu.gh
+node version
+v14.9.0
+npm version
+6.14.8
